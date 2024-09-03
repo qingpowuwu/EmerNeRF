@@ -40,6 +40,7 @@ Our code is developed on Ubuntu 22.04 using Python 3.9 and PyTorch 2.0. Please n
 ```shell
 conda create -n emernerf python=3.9 -y
 conda activate emernerf
+cd EmerNeRF
 # this will take a while: more than 10 minutes
 pip install -r requirements.txt
 ```
